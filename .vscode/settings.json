@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\thiag\\Downloads\\dotenv-java-2.3.2-javadoc.jar"
+        ],
+        "exclude": [
+            "lib/dotenv-java-2.3.2-javadoc.jar"
+        ]
+    }
+}
